@@ -3,7 +3,7 @@ This Weather App is a simple and intuitive application that allows users to view
 
 # 🚀 Live Demo
 Check out the live demo of the project:
-Weather App Live Demo
+@weather-app-ten-henna-73.vercel.app
 
 # ✨ Features
 - Search by City: Enter any city name to fetch and display weather details.
