@@ -36,6 +36,7 @@ Approach
    1. Set up the structure using HTML and styled it with CSS for a minimalistic design.
    2. Integrated the Weather API to fetch live weather data using JavaScript's Fetch API.
    3. Used the Geolocation API to get the user's current position and retrieve weather data for that location.
+
 Challenges Faced & Solutions
    1. Handling API Errors:
       - Challenge: The API occasionally returned errors for invalid city names or network issues.
