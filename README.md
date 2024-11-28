@@ -50,15 +50,15 @@ Challenges Faced & Solutions
      
 # 🚀 Future Improvements
 1. Detailed Forecast:
-  - Add a 5-day weather forecast feature for cities and current location.
+   - Add a 5-day weather forecast feature for cities and current location.
 2. Enhanced UI:
-  - Improve the design for better user experience, including animations and themes.
+   - Improve the design for better user experience, including animations and themes.
 3. Multiple Language Support:
-  - Provide weather details in different languages for wider usability.
+   - Provide weather details in different languages for wider usability.
 4. Temperature Units:
-  - Allow users to toggle between Celsius and Fahrenheit.
+   - Allow users to toggle between Celsius and Fahrenheit.
 5. Mobile Optimization:
-  - Optimize the app further for mobile-first design.
+   - Optimize the app further for mobile-first design.
 
 # 🌟 Contribution
 Feel free to fork this repository and suggest improvements or report issues! Let's make this weather app even better together. 😊
