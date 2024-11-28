@@ -64,3 +64,7 @@ Challenges Faced & Solutions
 Feel free to fork this repository and suggest improvements or report issues! Let's make this weather app even better together. 😊
         
       
+![w4](https://github.com/user-attachments/assets/301120ad-42c3-4d3b-9d3a-6fdb2547e046)
+![w3](https://github.com/user-attachments/assets/57c8388c-602b-401e-84a4-c0b1222112c8)
+![w2](https://github.com/user-attachments/assets/c52147af-ddb7-4f3c-a34e-fc58bbba25fa)
+![w1](https://github.com/user-attachments/assets/32a4811c-0e8c-4b49-b050-570f1752268b)
